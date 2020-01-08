@@ -136,8 +136,6 @@
     color: white;
   }
   @media all and (max-width:670px ){
-      .port1{
-       display:none;
-      }
+      
   }
   
