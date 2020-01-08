@@ -136,7 +136,7 @@
     color: white;
   }
   @media all and (max-width:670px ){
-      .top-description1{
+      .top-description1 p{
         padding-top: 10px;
       }
   }
