@@ -31,6 +31,7 @@
   }
   .menu-show{
     float:right;
+    display:block;
   }
   .menu-show a{
     float:left;
@@ -39,6 +40,10 @@
   
   }
   .menu-show li{
+    float: left;
+  }
+  .header-right-iphone{
+    display: none;
     float: left;
   }
   
@@ -136,6 +141,11 @@
     color: white;
   }
   @media all and (max-width:670px ){
-      
+    .menu-show{
+      display: none;
+    }
+   .menu-icon{
+     display: block;
+   }
   }
   
