@@ -136,8 +136,8 @@
     color: white;
   }
   @media all and (max-width:670px ){
-      .top-description p{
-        padding-top: 10px;
+      .port1{
+       display:none;
       }
   }
   
